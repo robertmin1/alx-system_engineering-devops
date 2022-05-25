@@ -1,1 +1,2 @@
-- e#!/bin/bash\ncp -rua *html ../
+-#!/bin/bash
+cp -rua *html ../
