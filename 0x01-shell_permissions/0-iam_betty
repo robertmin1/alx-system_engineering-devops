@@ -1,1 +1,2 @@
--ho -e #!/bin/bash\nsu - betty
+#!/bin/bash
+user - betty
